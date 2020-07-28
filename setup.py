@@ -51,10 +51,10 @@ try:
 except ImportError:
     pass
 
-__project__      = 'picamera'
-__version__      = '1.13'
-__author__       = 'Dave Jones'
-__author_email__ = 'dave@waveform.org.uk'
+__project__      = 'picamerab'
+__version__      = '1.13b'
+__author__       = 'Kenneth Jiang'
+__author_email__ = 'k@thespaghettidetective.com'
 __url__          = 'http://picamera.readthedocs.io/'
 __platforms__    = 'ALL'
 
