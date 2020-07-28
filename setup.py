@@ -52,7 +52,7 @@ except ImportError:
     pass
 
 __project__      = 'picamerab'
-__version__      = '1.13b'
+__version__      = '1.13b1'
 __author__       = 'Kenneth Jiang'
 __author_email__ = 'k@thespaghettidetective.com'
 __url__          = 'http://picamera.readthedocs.io/'
